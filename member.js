@@ -1,3 +1,3 @@
-function generateKey() {
-    return Math.random().toString(36).substr(2, 8)
+function skillsMember() {
+  console.log('I am a member')
 }
